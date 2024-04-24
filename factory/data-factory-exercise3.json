@@ -1,0 +1,9 @@
+{
+	"name": "data-factory-exercise3",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "f5505a00-882b-4a79-9f4b-a5496d0d0498",
+		"tenantId": "e5d15069-41a2-48be-a3f3-d7f52db16425"
+	}
+}
